@@ -1,6 +1,8 @@
 opencart-exchange-rates
 =======================
 
+> NOTICE: Migrated to [CoinPaymentsNet/plugin-opencart](https://github.com/CoinPaymentsNet/plugin-opencart).
+
 CoinPayments Exchange Rate Extension by CoinPayments.net
 
 Based on the Bitcoin Exchange Rate v1.2 OpenCart Extension by John Atkinson (jga) from BTC Gear (http://www.btcgear.com)
